@@ -1,0 +1,27 @@
+{
+  "name": "phones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "http-server": "^0.11.1",
+    "nodemon": "^1.14.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon script.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkfbrzozowski/phones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkfbrzozowski/phones/issues"
+  },
+  "homepage": "https://github.com/dkfbrzozowski/phones#readme"
+}
